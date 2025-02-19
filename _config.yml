@@ -1,8 +1,7 @@
 name: "RocketZhu's blog"
 description: "RocketZhu的个人技术博客"
 
-avatar: https://pianfan.github.io/images/avatar.png
-favicon: https://pianfan.github.io/images/favicon.ico
+avatar: https://rocketzhu.github.io/images/avatar.jpg
 
 navigation:
   - name: 首页
